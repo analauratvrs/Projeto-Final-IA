@@ -8,7 +8,7 @@ Para executar o notebook `Projeto_Final_IA.ipynb`, siga os passos abaixo:
 
 1.  **Clone este repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+    git clone [https://github.com/analauratvrs/Projeto-Final-IA.git](https://github.com/analauratvrs/Projeto-Final-IA.git)
     ```
 
 2.  **Baixe os dados do ENEM 2023:**
@@ -17,8 +17,8 @@ Para executar o notebook `Projeto_Final_IA.ipynb`, siga os passos abaixo:
 
 3.  **Configure o Ambiente no Google Colab:**
     * Abra o notebook `Projeto_Final_IA.ipynb` no Google Colab.
-    * Faça o upload do arquivo de dados (`DADOS_ENEM_2023.csv`) para a raiz do seu Google Drive ("Meu Drive").
-    * Execute a célula que monta o Google Drive e autorize o acesso. O notebook irá procurar o arquivo no caminho `/content/drive/MyDrive/DADOS_ENEM_2023.csv`.
+    * Faça o upload do arquivo de dados para a raiz do seu Google Drive (mais detalhes sobre isso estão no próprio notebook).
+    * Execute a célula que monta o Google Drive e autorize o acesso.
 
 4.  **Execute as Células:**
-    Com os dados no local correto, você pode executar todas as células do notebook sequencialmente.
+    Com os dados no local correto, será possível executar todas as células do notebook sequencialmente.
